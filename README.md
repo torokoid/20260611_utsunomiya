@@ -182,7 +182,7 @@ p.note { display: none; }
 <h2><span class="yellow">ポテトもあっという間に食べちゃいました</span></h2>
 <a href="20260611_008.JPG" target="_blank"><img src="20260611_008.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">UQmobileがスマホ教室開催の案内</span></h2>
+<h2><span class="yellow">Rakutenがスマホ教室開催の案内</span></h2>
 <a href="20260611_009.JPG" target="_blank"><img src="20260611_009.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">いつものスーパーのお花達も綺麗に満開</span></h2>
