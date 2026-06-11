@@ -176,7 +176,7 @@ p.note { display: none; }
 <a href="20260611_005.JPG" target="_blank"><img src="20260611_005.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260611_006.JPG" target="_blank"><img src="20260611_006.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">お昼過ぎのFKDフードコートは空いてて快適</span></h2>
+<h2><span class="yellow">お昼過ぎのヨークベニマルのフードコートは空いてて快適</span></h2>
 <a href="20260611_007.JPG" target="_blank"><img src="20260611_007.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">ポテトもあっという間に食べちゃいました</span></h2>
